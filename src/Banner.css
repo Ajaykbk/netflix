@@ -1,0 +1,11 @@
+.banner{
+    height: 450px;
+    object-fit: contain;
+}
+.bannerContent{
+    padding-top: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 20px;
+    
+}
